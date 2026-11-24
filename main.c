@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("proyecto");
+    printf("proyecto Musica");
     return 0;
 }
